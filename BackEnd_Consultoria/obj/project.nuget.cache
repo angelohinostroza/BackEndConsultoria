@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdYyY5YWT/YjjGDomtzEUgGPiAPDCj4mr4dSQUVl8cj6GcdnJ8h9hwkYZz/BMKGo8OsqnlhF8Qh3gIL4r9m3wQ==",
+  "success": true,
+  "projectFilePath": "D:\\INSTITUTO_CONTINENTAL\\CICLO 4\\Integracion de Sistemas Impresariales\\BackEnd_Consultoria\\BackEnd_Consultoria\\BackEnd_Consultoria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANGELO HINOSTROZA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\ANGELO HINOSTROZA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ANGELO HINOSTROZA\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ANGELO HINOSTROZA\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ANGELO HINOSTROZA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ANGELO HINOSTROZA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ANGELO HINOSTROZA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

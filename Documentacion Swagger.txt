@@ -1,0 +1,48 @@
+paso 1: 
+	en el archivo: program buscar lo siguiente
+
+	builder.Services.AddSwaggerGen();
+    y lo remplazamos por el siguiente texto
+	builder.Services.AddSwaggerGen(c =>
+        {
+            c.SwaggerDoc("v1", new OpenApiInfo
+            {
+                Title = "BackEnd Consultoria",
+                Version = "v1",
+                Description = "Documentación de los servicios para el sistema de Consultoria de Proyectos",
+                Contact = new OpenApiContact
+                {
+                    Name = "Angelo Hinostroza",
+                    Name = "Enriqueta Achahue",
+                    Email = "hmoralesangelof@gmail.com",
+                    Url = new Uri(" "),
+                },
+            }
+            );
+            var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+            var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+            c.IncludeXmlComments(xmlPath);
+        });
+
+PASO 2: de la carpeta 01 ==> hacer clic en el proyecto de API que corresponda, en este ejemplo es ==> ApiConsultoria. 
+    NOS VA A ABRIR UN ARCHIVO XML 
+
+
+
+    vamos a a buscar lo siguiente
+
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    VAMOS A REMPLAZAR POR LO SIGUIENTE (AGREGAMOS LA ETIQUETA ==> GenerateDocumentationFile)
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>

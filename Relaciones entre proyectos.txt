@@ -1,0 +1,31 @@
+--- REFERENCIAS ---
+
+01 API se relaciona con:
+- Bussnies
+- CommonModels
+- IBussnies
+- RequestResponse
+
+02 BUSSNIES/Bussnies se relaciona con:
+- CommonModels
+- IBussnies
+- IRepository
+- Repository
+- RequestResponse
+
+03 SERVICE/Service se realicona con:
+- Iservice
+- RequestResponse
+
+04 REPOSITORY/Repository se relaciona con:
+- IRepository
+- DbConsultoriaModel
+
+04 REPOSITORY/IRepository se relaciona con:
+- DbConsultoriaModel
+- RequestResponse
+
+
+
+
+

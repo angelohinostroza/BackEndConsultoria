@@ -1,0 +1,13 @@
+CUANDO ES SQL SERVER
+
+Scaffold-DbContext "Data Source=ANGELO;Initial Catalog=dbConsultoria;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir dbConsultoria -DataAnnotations -Context "_dbConsultoriaContext" -Force
+
+
+
+Scaffold-DbContext "CADENA DE CONEXI� PARA MYSQL" LIBRER�A_POMELOENTITYFRAMWORK  -OutputDir TramiteDocumentario -DataAnnotations -Context "_dbTramiteDocumentarioContext" -Force
+
+
+
+Data Source=ANGELO;Initial Catalog=dbConsultoria;Integrated Security=True
+
+

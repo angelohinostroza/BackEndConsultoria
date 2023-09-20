@@ -1,0 +1,25 @@
+
+ Librerias instaladas
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.Relational
+- Microsoft.EntityFrameworkCore.Abstractions
+- Microsoft.EntityFrameworkCore.Design
+- Microsoft.EntityFrameworkCore.Tools
+- Microsoft.EntityFrameworkCore.SqlServer (para la base de datos)
+en los proyectos: 04 REPOSITORY/Repository, 05 MODELS/DbConsultoriaModel
+
+
+Libreria instalada
+- AutoMapper.Extensions.Microsoft.DependencyInjection
+en los proyectos: 01 API, 02 BUSSNIES/Bussnies, 04 REPOSITORY/Repository y 06 Util/UtilAutomapper
+
+
+Instalar Libreria openxml para excel al proyecto:
+06
+
+Librerias instaladas 
+- Microsoft.EntityFrameworkCore.Design
+- Microsoft.AspNetCore.Authentication.JwtBearer
+- System.IdentityModel.Tokens.Jwt 
+al proyecto: 01 API
+
