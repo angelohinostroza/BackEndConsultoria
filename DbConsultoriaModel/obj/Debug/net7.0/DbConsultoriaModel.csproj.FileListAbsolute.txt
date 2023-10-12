@@ -26,3 +26,31 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Db
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.genruntimeconfig.cache
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\ref\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\bin\Debug\net7.0\DbConsultoriaModel.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\bin\Debug\net7.0\DbConsultoriaModel.runtimeconfig.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\refint\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.genruntimeconfig.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\ref\DbConsultoriaModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\bin\Debug\net7.0\DbConsultoriaModel.deps.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\bin\Debug\net7.0\DbConsultoriaModel.runtimeconfig.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.csproj.AssemblyReference.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.AssemblyInfoInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.AssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\refint\DbConsultoriaModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\DbConsultoriaModel.genruntimeconfig.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\DbConsultoriaModel\obj\Debug\net7.0\ref\DbConsultoriaModel.dll

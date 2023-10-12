@@ -60,6 +60,9 @@ namespace UtilAutomapper
             CreateMap<Error, ErrorRequest>().ReverseMap();
             CreateMap<ErrorResponse, ErrorRequest>().ReverseMap();
 
+            CreateMap<Ubigeo, UbigeoResponse>().ReverseMap();
+            CreateMap<Ubigeo, UbigeoRequest>().ReverseMap();
+            CreateMap<UbigeoResponse, UbigeoRequest>().ReverseMap();
         }
     }
     

@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class Proyecto
 {
     [Key]
-    public int IdProyecto { get; set; }
+    public int Id { get; set; }
 
     [StringLength(100)]
     [Unicode(false)]

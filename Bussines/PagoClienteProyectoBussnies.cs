@@ -73,6 +73,11 @@ namespace Bussnies
             PagoClienteProyectoResponse result = _mapper.Map<PagoClienteProyectoResponse>(pagoClienteProyecto);
             return result;
         }
+
+        public GenericFilterResponse<PagoClienteProyectoResponse> GetByFilter(GenericFilterRequest filter)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

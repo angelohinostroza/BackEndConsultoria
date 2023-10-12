@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class Empleado
 {
     [Key]
-    public int IdEmpleado { get; set; }
+    public int Id { get; set; }
 
     [StringLength(255)]
     [Unicode(false)]
@@ -46,7 +46,7 @@ public partial class Empleado
     [Column(TypeName = "date")]
     public DateTime? FechaModificado { get; set; }
 
-    [InverseProperty("IdEmpleadoRegistroNavigation")]
+    [InverseProperty("IdEmpleadoCreaNavigation")]
     public virtual ICollection<Cliente> Clientes { get; set; } = new List<Cliente>();
 
     [InverseProperty("IdEmpleadoRegistroNavigation")]

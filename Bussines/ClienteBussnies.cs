@@ -41,10 +41,15 @@ namespace Bussnies
             ClienteResponse respuesta = _mapper.Map<ClienteResponse>(_clienteRepository.Create(cliente));
             return respuesta;
         }
-        public ClienteResponse Update(ClienteRequest request)
+        public ClienteResponse Update(ClienteRequest entity)
         {
-            Cliente cliente = _mapper.Map<Cliente>(request);
-            ClienteResponse respuesta = _mapper.Map<ClienteResponse>(_clienteRepository.Update(cliente));
+            Cliente ClienteRequest = _mapper.Map<Cliente>(entity);
+            ClienteResponse ClienteOld = GetById(entity.Id);
+
+            ClienteRequest.IdEmpleadoCrea = ClienteOld.IdEmpleadoCrea;
+            ClienteRequest.FechaModificado = ClienteOld.FechaModificado;
+
+            ClienteResponse respuesta = _mapper.Map<ClienteResponse>(_clienteRepository.Update(ClienteRequest));
             return respuesta;
         }
 
@@ -72,5 +77,19 @@ namespace Bussnies
             throw new NotImplementedException();
         }
 
+        public List<VclienteUbigeo> ObtenerCliente()
+        {
+            List<VclienteUbigeo> lst = _clienteRepository.ObtenerCliente();
+            return lst;
+        }
+
+        public GenericFilterResponse<ClienteResponse> GetByFilter(GenericFilterRequest filter)
+        {
+            GenericFilterResponse<Cliente> cats = _clienteRepository.GetByFilter(filter);
+            GenericFilterResponse<ClienteResponse> res = new GenericFilterResponse<ClienteResponse>();
+            res.TotalRecord = cats.TotalRecord;
+            res.List = _mapper.Map<List<ClienteResponse>>(cats.List);
+            return res;
+        }
     }
 }

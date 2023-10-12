@@ -9,8 +9,9 @@ namespace IRepository
 {
     public interface IClienteRepository : ICRUDRepository<Cliente>
     {
-        public List<Cliente> ObtenerCliente(int idCliente);
+        List<VclienteUbigeo> ObtenerCliente();
+
 
     }
-    
+
 }

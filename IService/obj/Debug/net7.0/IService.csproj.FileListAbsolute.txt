@@ -20,3 +20,15 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\IS
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\IService\obj\Debug\net7.0\refint\IService.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\IService\obj\Debug\net7.0\IService.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\IService\obj\Debug\net7.0\ref\IService.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\bin\Debug\net7.0\IService.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\bin\Debug\net7.0\IService.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\bin\Debug\net7.0\IService.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\IService.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\IService.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\IService.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\IService.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\IService.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\refint\IService.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\IService.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\IService\obj\Debug\net7.0\ref\IService.dll

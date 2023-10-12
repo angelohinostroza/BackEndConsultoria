@@ -20,3 +20,15 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ut
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\refint\UtilExcel.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\UtilExcel.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\ref\UtilExcel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\bin\Debug\net7.0\UtilExcel.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\UtilExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\UtilExcel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\refint\UtilExcel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\UtilExcel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilExcel\obj\Debug\net7.0\ref\UtilExcel.dll

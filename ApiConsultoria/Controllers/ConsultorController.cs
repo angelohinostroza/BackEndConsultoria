@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Bussnies;
 using IBussnies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using RequestResponse;
@@ -13,6 +14,7 @@ namespace ApiConsultoria.Controllers
     /// </summary>
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ConsultorController : ControllerBase
     {
         #region DECLARACIÓN DE VARIABLES Y CREACION DEL CONSTRUCTOR

@@ -91,16 +91,6 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_C
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.CodeDom.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\DbConsultoriaModel.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\DbConsultoriaModel.pdb
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.csproj.AssemblyReference.cache
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.GeneratedMSBuildEditorConfig.editorconfig
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.AssemblyInfoInputs.cache
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.AssemblyInfo.cs
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.csproj.CoreCompileInputs.cache
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.MvcApplicationPartsAssemblyInfo.cs
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.MvcApplicationPartsAssemblyInfo.cache
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\refint\ApiConsultoria.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\appsettings.Development.json
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\appsettings.json
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.exe
@@ -108,6 +98,7 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ap
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.runtimeconfig.json
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.xml
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\AutoMapper.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Azure.Core.dll
@@ -147,18 +138,18 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ap
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Security.Permissions.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Bussnies.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\CommonModels.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\DbConsultoriaModel.dll
@@ -167,6 +158,7 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ap
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Repository.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\RequestResponse.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilAutomapper.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilSecurity.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Bussnies.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\CommonModels.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\IBussnies.pdb
@@ -175,6 +167,14 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ap
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\DbConsultoriaModel.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\IRepository.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Repository.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilSecurity.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.csproj.AssemblyReference.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.GeneratedMSBuildEditorConfig.editorconfig
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.AssemblyInfoInputs.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.AssemblyInfo.cs
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.csproj.CoreCompileInputs.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.MvcApplicationPartsAssemblyInfo.cs
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.MvcApplicationPartsAssemblyInfo.cache
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets\msbuild.ApiConsultoria.Microsoft.AspNetCore.StaticWebAssets.props
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiConsultoria.props
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiConsultoria.props
@@ -184,11 +184,108 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ap
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets.development.json
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\scopedcss\bundle\ApiConsultoria.styles.css
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.csproj.CopyComplete
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\refint\ApiConsultoria.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.xml
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.genruntimeconfig.cache
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ref\ApiConsultoria.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.xml
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.xml
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\MySqlConnector.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilSecurity.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\appsettings.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.exe
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.runtimeconfig.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\ApiConsultoria.xml
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Bussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\CommonModels.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\IBussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\IRepository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Repository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\CommonModels.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\IRepository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\Repository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets\msbuild.ApiConsultoria.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiConsultoria.props
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiConsultoria.props
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiConsultoria.props
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\scopedcss\bundle\ApiConsultoria.styles.css
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.csproj.CopyComplete
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\refint\ApiConsultoria.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.xml
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ApiConsultoria.genruntimeconfig.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiConsultoria\obj\Debug\net7.0\ref\ApiConsultoria.dll

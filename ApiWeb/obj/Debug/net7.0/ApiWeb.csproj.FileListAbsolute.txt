@@ -1,0 +1,296 @@
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.exe
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.runtimeconfig.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Bussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\CommonModels.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IBussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IRepository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Repository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\CommonModels.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IRepository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Repository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.ApiWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiWeb.props
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiWeb.props
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiWeb.props
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\scopedcss\bundle\ApiWeb.styles.css
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.CopyComplete
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\refint\ApiWeb.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.genruntimeconfig.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ref\ApiWeb.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.xml
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.xml
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.exe
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.deps.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.runtimeconfig.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.xml
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Bussnies.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\CommonModels.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IBussnies.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IRepository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Repository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\CommonModels.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IRepository.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Repository.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.AssemblyReference.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.AssemblyInfoInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.AssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.ApiWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiWeb.props
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiWeb.props
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiWeb.props
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\scopedcss\bundle\ApiWeb.styles.css
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.CopyComplete
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\refint\ApiWeb.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.xml
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.genruntimeconfig.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ref\ApiWeb.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\appsettings.Development.json
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\appsettings.json
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.exe
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.deps.json
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.runtimeconfig.json
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\ApiWeb.xml
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\AutoMapper.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Azure.Core.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Azure.Identity.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Humanizer.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.CodeDom.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Memory.Data.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Bussnies.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\CommonModels.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\DbConsultoriaModel.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IBussnies.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IRepository.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Repository.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\RequestResponse.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilAutomapper.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilSecurity.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Bussnies.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\CommonModels.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IBussnies.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilAutomapper.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\DbConsultoriaModel.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\IRepository.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\Repository.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\RequestResponse.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\bin\Debug\net7.0\UtilSecurity.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.AssemblyReference.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.AssemblyInfoInputs.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.AssemblyInfo.cs
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.CoreCompileInputs.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.ApiWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiWeb.props
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiWeb.props
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiWeb.props
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.pack.json
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.build.json
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\staticwebassets.development.json
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\scopedcss\bundle\ApiWeb.styles.css
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.csproj.CopyComplete
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\refint\ApiWeb.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.xml
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ApiWeb.genruntimeconfig.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\ApiWeb\obj\Debug\net7.0\ref\ApiWeb.dll

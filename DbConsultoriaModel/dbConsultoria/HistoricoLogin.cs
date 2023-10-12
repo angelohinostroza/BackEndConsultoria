@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class HistoricoLogin
 {
     [Key]
-    public int IdLogin { get; set; }
+    public int Id { get; set; }
 
     [Column(TypeName = "datetime")]
     public DateTime FechaLogin { get; set; }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RequestResponse;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,7 @@ namespace IBussnies
         //DONDE VAMOS A COMENZAR A HACER USO DE LOS DTO'S
         // DATA TRANSFER OBJET
 
-        //GenericFilterResponse<Y> GetByFilter(GenericFilterRequest filters);
+        GenericFilterResponse<Y> GetByFilter(GenericFilterRequest filter);
         List<Y> GetAll();
         Y GetById(int id);
         Y Create(T request);

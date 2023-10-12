@@ -9,7 +9,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 [Keyless]
 public partial class VistaUsuarioRol
 {
-    public int IdUsuario { get; set; }
+    public int Id { get; set; }
 
     [StringLength(20)]
     [Unicode(false)]
@@ -19,11 +19,15 @@ public partial class VistaUsuarioRol
     [Unicode(false)]
     public string Password { get; set; } = null!;
 
+    public bool? Estado { get; set; }
+
     public int IdRol { get; set; }
 
     [StringLength(20)]
     [Unicode(false)]
     public string? NombreRol { get; set; }
+
+    public int IdEmpleado { get; set; }
 
     [StringLength(255)]
     [Unicode(false)]
@@ -32,8 +36,4 @@ public partial class VistaUsuarioRol
     [StringLength(100)]
     [Unicode(false)]
     public string Email { get; set; } = null!;
-
-    public int IdEmpleado { get; set; }
-
-    public bool? Estado { get; set; }
 }

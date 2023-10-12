@@ -43,6 +43,14 @@ public partial class _dbConsultoriaContext : DbContext
 
     public virtual DbSet<Usuario> Usuarios { get; set; }
 
+    public virtual DbSet<VclienteUbigeo> VclienteUbigeos { get; set; }
+
+    public virtual DbSet<VconsultorUbigeo> VconsultorUbigeos { get; set; }
+
+    public virtual DbSet<VcontratistaUbigeo> VcontratistaUbigeos { get; set; }
+
+    public virtual DbSet<VempleadoUbigeo> VempleadoUbigeos { get; set; }
+
     public virtual DbSet<VisitaConsultor> VisitaConsultors { get; set; }
 
     public virtual DbSet<VisitaDetalle> VisitaDetalles { get; set; }
@@ -51,24 +59,24 @@ public partial class _dbConsultoriaContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=ANGELO;Initial Catalog=dbConsultoria;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=True");
-
+        => optionsBuilder
+        .EnableSensitiveDataLogging (true)
+        .UseSqlServer("Data Source=ANGELO;Initial Catalog=dbConsultoria;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=True")
+        .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Cliente>(entity =>
         {
-            entity.HasKey(e => e.IdCliente).HasName("XPKCliente");
+            entity.HasKey(e => e.Id).HasName("XPKCliente");
 
-            entity.HasOne(d => d.IdEmpleadoRegistroNavigation).WithMany(p => p.Clientes)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("R_31");
+            entity.HasOne(d => d.IdEmpleadoCreaNavigation).WithMany(p => p.Clientes).HasConstraintName("R_31");
 
             entity.HasOne(d => d.IdUbigeoNavigation).WithMany(p => p.Clientes).HasConstraintName("FK_Cliente_Ubigeo");
         });
 
         modelBuilder.Entity<Consultor>(entity =>
         {
-            entity.HasKey(e => e.IdConsultor).HasName("XPKConsultor");
+            entity.HasKey(e => e.Id).HasName("XPKConsultor");
 
             entity.HasOne(d => d.IdEmpleadoRegistroNavigation).WithMany(p => p.Consultors)
                 .OnDelete(DeleteBehavior.ClientSetNull)
@@ -92,7 +100,7 @@ public partial class _dbConsultoriaContext : DbContext
 
         modelBuilder.Entity<Contratistum>(entity =>
         {
-            entity.HasKey(e => e.IdContratista).HasName("XPKContratista");
+            entity.HasKey(e => e.Id).HasName("XPKContratista");
 
             entity.HasOne(d => d.IdEmpleadoRegistroNavigation).WithMany(p => p.Contratista)
                 .OnDelete(DeleteBehavior.ClientSetNull)
@@ -107,7 +115,7 @@ public partial class _dbConsultoriaContext : DbContext
 
         modelBuilder.Entity<Cotizacion>(entity =>
         {
-            entity.HasKey(e => e.IdCotizacion).HasName("XPKCotizacion");
+            entity.HasKey(e => e.Id).HasName("XPKCotizacion");
 
             entity.HasOne(d => d.IdEmpleadoRegistroNavigation).WithMany(p => p.Cotizacions)
                 .OnDelete(DeleteBehavior.ClientSetNull)
@@ -127,7 +135,7 @@ public partial class _dbConsultoriaContext : DbContext
 
         modelBuilder.Entity<Empleado>(entity =>
         {
-            entity.HasKey(e => e.IdEmpleado).HasName("XPKEmpleado");
+            entity.HasKey(e => e.Id).HasName("XPKEmpleado");
 
             entity.HasOne(d => d.IdUbigeoNavigation).WithMany(p => p.Empleados).HasConstraintName("FK_Empleado_Ubigeo1");
         });
@@ -141,7 +149,7 @@ public partial class _dbConsultoriaContext : DbContext
 
         modelBuilder.Entity<HistoricoLogin>(entity =>
         {
-            entity.HasKey(e => e.IdLogin).HasName("XPKLogin");
+            entity.HasKey(e => e.Id).HasName("XPKLogin");
 
             entity.HasOne(d => d.IdUsuarioNavigation).WithMany(p => p.HistoricoLogins)
                 .OnDelete(DeleteBehavior.ClientSetNull)
@@ -150,7 +158,7 @@ public partial class _dbConsultoriaContext : DbContext
 
         modelBuilder.Entity<PagoClienteProyecto>(entity =>
         {
-            entity.HasKey(e => e.IdPago).HasName("XPKPagoClienteProyecto");
+            entity.HasKey(e => e.Id).HasName("XPKPagoClienteProyecto");
 
             entity.HasOne(d => d.IdClienteNavigation).WithMany(p => p.PagoClienteProyectos)
                 .OnDelete(DeleteBehavior.ClientSetNull)
@@ -167,7 +175,7 @@ public partial class _dbConsultoriaContext : DbContext
 
         modelBuilder.Entity<Proyecto>(entity =>
         {
-            entity.HasKey(e => e.IdProyecto).HasName("XPKProyecto");
+            entity.HasKey(e => e.Id).HasName("XPKProyecto");
 
             entity.HasOne(d => d.IdClienteNavigation).WithMany(p => p.Proyectos)
                 .OnDelete(DeleteBehavior.ClientSetNull)
@@ -182,17 +190,17 @@ public partial class _dbConsultoriaContext : DbContext
 
         modelBuilder.Entity<Rol>(entity =>
         {
-            entity.HasKey(e => e.IdRol).HasName("XPKRol");
+            entity.HasKey(e => e.Id).HasName("XPKRol");
         });
 
         modelBuilder.Entity<Ubigeo>(entity =>
         {
-            entity.HasKey(e => e.IdUbigeo).HasName("PK_Hoja1$");
+            entity.HasKey(e => e.Id).HasName("PK_Hoja1$");
         });
 
         modelBuilder.Entity<Usuario>(entity =>
         {
-            entity.HasKey(e => e.IdUsuario).HasName("XPKUsuario");
+            entity.HasKey(e => e.Id).HasName("XPKUsuario");
 
             entity.HasOne(d => d.IdEmpleadoNavigation).WithMany(p => p.Usuarios)
                 .OnDelete(DeleteBehavior.ClientSetNull)
@@ -203,9 +211,29 @@ public partial class _dbConsultoriaContext : DbContext
                 .HasConstraintName("R_48");
         });
 
+        modelBuilder.Entity<VclienteUbigeo>(entity =>
+        {
+            entity.ToView("VclienteUbigeo");
+        });
+
+        modelBuilder.Entity<VconsultorUbigeo>(entity =>
+        {
+            entity.ToView("VconsultorUbigeo");
+        });
+
+        modelBuilder.Entity<VcontratistaUbigeo>(entity =>
+        {
+            entity.ToView("VcontratistaUbigeo");
+        });
+
+        modelBuilder.Entity<VempleadoUbigeo>(entity =>
+        {
+            entity.ToView("VempleadoUbigeo");
+        });
+
         modelBuilder.Entity<VisitaConsultor>(entity =>
         {
-            entity.HasKey(e => e.IdVisitaConsultor).HasName("XPKVisitaConsultor");
+            entity.HasKey(e => e.Id).HasName("XPKVisitaConsultor");
 
             entity.HasOne(d => d.IdClienteNavigation).WithMany(p => p.VisitaConsultors)
                 .OnDelete(DeleteBehavior.ClientSetNull)

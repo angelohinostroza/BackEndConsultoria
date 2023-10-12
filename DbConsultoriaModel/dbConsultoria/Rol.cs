@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class Rol
 {
     [Key]
-    public int IdRol { get; set; }
+    public int Id { get; set; }
 
     [StringLength(20)]
     [Unicode(false)]

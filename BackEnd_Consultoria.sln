@@ -17,8 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 UTILS", "06 UTILS", "{F9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 ANOTACIONES", "10 ANOTACIONES", "{43A95BD1-F039-4589-8C54-EEE534C52731}"
 	ProjectSection(SolutionItems) = preProject
-		Estructura Base de Datos.sql = Estructura Base de Datos.sql
 		Documentacion Swagger.txt = Documentacion Swagger.txt
+		Estructura Base de Datos.sql = Estructura Base de Datos.sql
 		Inyeccion de dependencias.txt = Inyeccion de dependencias.txt
 		Librerias a instalar.txt = Librerias a instalar.txt
 		Mapeo de base de datos.txt = Mapeo de base de datos.txt
@@ -50,11 +50,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bussnies", "Bussines\Bussni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IBussnies", "IBussnies\IBussnies.csproj", "{C94A5780-32E7-44DA-A19B-299A4703B7A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiConsultoria", "ApiConsultoria\ApiConsultoria.csproj", "{9481F9DA-17D3-4F6D-B6C1-E46CBC5CFB36}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtilAutomapper", "UtilAutomapper\UtilAutomapper.csproj", "{DFEAE17D-B0A6-4D24-9937-74559DDE999F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonModels", "CommonModels\CommonModels.csproj", "{BABF97FB-9866-4020-88D3-69CA55F4272C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiWeb", "ApiWeb\ApiWeb.csproj", "{A95DD5ED-E23E-47C4-A1E8-325CA2F27299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,10 +110,6 @@ Global
 		{C94A5780-32E7-44DA-A19B-299A4703B7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C94A5780-32E7-44DA-A19B-299A4703B7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C94A5780-32E7-44DA-A19B-299A4703B7A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9481F9DA-17D3-4F6D-B6C1-E46CBC5CFB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9481F9DA-17D3-4F6D-B6C1-E46CBC5CFB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9481F9DA-17D3-4F6D-B6C1-E46CBC5CFB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9481F9DA-17D3-4F6D-B6C1-E46CBC5CFB36}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DFEAE17D-B0A6-4D24-9937-74559DDE999F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DFEAE17D-B0A6-4D24-9937-74559DDE999F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFEAE17D-B0A6-4D24-9937-74559DDE999F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -122,6 +118,10 @@ Global
 		{BABF97FB-9866-4020-88D3-69CA55F4272C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BABF97FB-9866-4020-88D3-69CA55F4272C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BABF97FB-9866-4020-88D3-69CA55F4272C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95DD5ED-E23E-47C4-A1E8-325CA2F27299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95DD5ED-E23E-47C4-A1E8-325CA2F27299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95DD5ED-E23E-47C4-A1E8-325CA2F27299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95DD5ED-E23E-47C4-A1E8-325CA2F27299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -139,9 +139,9 @@ Global
 		{DE20EA09-AD15-44A5-A854-C6EB28D13B42} = {95C8DECE-C33B-4BD3-9517-621E3517757F}
 		{8B6A9016-84C1-4903-92B2-CCA05265448B} = {19EC5A40-26AE-421B-B0F6-67F5751870D6}
 		{C94A5780-32E7-44DA-A19B-299A4703B7A1} = {19EC5A40-26AE-421B-B0F6-67F5751870D6}
-		{9481F9DA-17D3-4F6D-B6C1-E46CBC5CFB36} = {784D855F-FF83-486F-A067-AE94222D6D9B}
 		{DFEAE17D-B0A6-4D24-9937-74559DDE999F} = {F963B858-7D6C-414A-880A-EE36E689FB82}
 		{BABF97FB-9866-4020-88D3-69CA55F4272C} = {3999A092-F206-4557-9888-012EA7B9D7C3}
+		{A95DD5ED-E23E-47C4-A1E8-325CA2F27299} = {784D855F-FF83-486F-A067-AE94222D6D9B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C5D53F23-F452-4B5E-8B27-07FCFA3D844B}

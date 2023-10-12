@@ -106,7 +106,7 @@ namespace ApiConsultoria.Controllers
                 configurationFile["Jwt:Issuer"],
                 configurationFile["Jwt:Audience"],
                 claims,
-                expires: DateTime.UtcNow.AddSeconds(tiempoVida),
+                expires: DateTime.UtcNow.AddMinutes(tiempoVida),
                 signingCredentials: signIn);
 
 

@@ -17,7 +17,7 @@ namespace Bussnies
     public class AuthBussnies: IAuthBussnies
     {
         #region declaracion de variables y constructor
-    
+
         private readonly IUsuarioRepository _usuarioRepository;
         private readonly IMapper _mapper;
         private readonly UtilEncriptDecript _cripto;
@@ -50,14 +50,14 @@ namespace Bussnies
 
                 //implementar el automapper
                 loginResponse.Usuario.IdRol = vistaUsuario.IdRol;
-                loginResponse.Usuario.IdUsuario = vistaUsuario.IdUsuario;
+                loginResponse.Usuario.IdUsuario = vistaUsuario.Id;
                 loginResponse.Usuario.NombreUsuario = request.NombreUsuario;
                 loginResponse.Usuario.IdEmpleado = vistaUsuario.IdEmpleado;
                 loginResponse.Usuario.Email = vistaUsuario.Email;
 
                 return loginResponse;
 
-                
+
             }
 
 

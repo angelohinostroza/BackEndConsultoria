@@ -10,7 +10,7 @@ namespace RequestResponse
 {
     public class ContratistumRequest
     {
-        public int IdContratista { get; set; }
+        public int Id { get; set; }
         public string RazonSocial { get; set; } = null!;
         public string NroRuc { get; set; } = null!;
         public string Direccion { get; set; } = null!;

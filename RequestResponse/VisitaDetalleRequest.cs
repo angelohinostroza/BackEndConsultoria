@@ -10,7 +10,7 @@ namespace RequestResponse
 {
     public class VisitaDetalleRequest
     {
-        public int IdVisitaDetalle { get; set; }
+        public int Id { get; set; }
         public int IdVisitaConsultor { get; set; }
         public string? Detalles { get; set; }
 

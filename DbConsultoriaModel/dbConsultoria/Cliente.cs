@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class Cliente
 {
     [Key]
-    public int IdCliente { get; set; }
+    public int Id { get; set; }
 
     [StringLength(20)]
     [Unicode(false)]
@@ -42,19 +42,23 @@ public partial class Cliente
 
     public int? IdUbigeo { get; set; }
 
-    public bool? Estado { get; set; }
+    [StringLength(8)]
+    [Unicode(false)]
+    public string? Estado { get; set; }
 
-    public int IdEmpleadoRegistro { get; set; }
+    public int? IdEmpleadoCrea { get; set; }
 
     [Column(TypeName = "date")]
     public DateTime? FechaCreacion { get; set; }
 
+    public int? IdEmpleadoModifica { get; set; }
+
     [Column(TypeName = "date")]
     public DateTime? FechaModificado { get; set; }
 
-    [ForeignKey("IdEmpleadoRegistro")]
+    [ForeignKey("IdEmpleadoCrea")]
     [InverseProperty("Clientes")]
-    public virtual Empleado IdEmpleadoRegistroNavigation { get; set; } = null!;
+    public virtual Empleado? IdEmpleadoCreaNavigation { get; set; }
 
     [ForeignKey("IdUbigeo")]
     [InverseProperty("Clientes")]

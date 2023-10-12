@@ -1,6 +1,9 @@
-﻿using AutoMapper;
+﻿using ApiConsultoria.Middleware;
+using AutoMapper;
 using Azure.Core;
 using Bussnies;
+using CommonModels;
+using DbConsultoriaModel.dbConsultoria;
 using IBussnies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -22,12 +25,16 @@ namespace ApiConsultoria.Controllers
 
         private readonly IClienteBussnies _clienteBussnies;
         private readonly IMapper _mapper;
+        private readonly IHelperHttpContext _helperHttpContext = null;
 
         public ClienteController(IMapper mapper)
         {
             _mapper = mapper;
             _clienteBussnies = new ClienteBussnies(mapper);
+            _helperHttpContext = new HelperHttpContext();
         }
+
+
 
         #endregion DECLARACIÓN DE VARIABLES Y CREACION DEL CONSTRUCTOR
 
@@ -38,13 +45,14 @@ namespace ApiConsultoria.Controllers
         /// </summary>
         /// <returns>List-ClienteResponse</returns>
         [HttpGet]
-        [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(List<ClienteResponse>))]
+        [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(List<VclienteUbigeo>))]
         [ProducesResponseType((int)HttpStatusCode.BadRequest, Type = typeof(GenericResponse))]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError, Type = typeof(GenericResponse))]
         public IActionResult ListarTodo()
         {
-            List<ClienteResponse> lista = _clienteBussnies.GetAll();
-            return Ok(lista);
+            List<VclienteUbigeo> lis = new List<VclienteUbigeo>();
+            lis = _clienteBussnies.ObtenerCliente();
+            return Ok(lis);
         }
 
         /// <summary>
@@ -72,7 +80,14 @@ namespace ApiConsultoria.Controllers
         [ProducesResponseType((int)HttpStatusCode.InternalServerError, Type = typeof(GenericResponse))]
         public IActionResult Crear([FromBody] ClienteRequest request)
         {
+            InfoRequest info = _helperHttpContext.GetInfoRequest(HttpContext);
+
+            request.IdEmpleadoCrea = info.Claims.UserId;
+            request.IdEmpleadoModifica = info.Claims.UserId;
+            request.FechaCreacion = DateTime.Now;
+
             ClienteResponse result = _clienteBussnies.Create(request);
+
             return StatusCode(201, result);
         }
 
@@ -87,7 +102,14 @@ namespace ApiConsultoria.Controllers
         [ProducesResponseType((int)HttpStatusCode.InternalServerError, Type = typeof(GenericResponse))]
         public IActionResult Actualizar([FromBody] ClienteRequest request)
         {
+
+            InfoRequest info = _helperHttpContext.GetInfoRequest(HttpContext);
+
+            request.IdEmpleadoModifica = info.Claims.UserId;
+            request.FechaModificado = DateTime.Now;
+
             ClienteResponse result = _clienteBussnies.Update(request);
+
             return StatusCode(200, result);
         }
 

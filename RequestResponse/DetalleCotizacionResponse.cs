@@ -8,7 +8,7 @@ namespace RequestResponse
 {
     public class DetalleCotizacionResponse
     {
-        public int IidDetalleCotizacion { get; set; }
+        public int Id { get; set; }
         public int IdCotizacion { get; set; }
         public string? Descripcion { get; set; }
         public string? Cantidad { get; set; }

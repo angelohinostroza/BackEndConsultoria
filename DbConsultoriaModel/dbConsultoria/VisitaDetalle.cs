@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class VisitaDetalle
 {
     [Key]
-    public int IdVisitaDetalle { get; set; }
+    public int Id { get; set; }
 
     public int IdVisitaConsultor { get; set; }
 

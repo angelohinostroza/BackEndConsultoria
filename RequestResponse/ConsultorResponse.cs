@@ -8,7 +8,7 @@ namespace RequestResponse
 {
     public class ConsultorResponse
     {
-        public int IdConsultor { get; set; }
+        public int Id { get; set; }
         public string TipoDocumento { get; set; } = null!;
         public string NroDocumento { get; set; } = null!;
         public string Nombres { get; set; } = null!;

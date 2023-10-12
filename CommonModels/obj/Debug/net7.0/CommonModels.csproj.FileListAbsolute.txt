@@ -20,3 +20,26 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Co
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\refint\CommonModels.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\ref\CommonModels.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\bin\Debug\net7.0\CommonModels.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\bin\Debug\net7.0\CommonModels.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\bin\Debug\net7.0\CommonModels.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\refint\CommonModels.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\ref\CommonModels.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\bin\Debug\net7.0\CommonModels.deps.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\bin\Debug\net7.0\CommonModels.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\bin\Debug\net7.0\CommonModels.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.AssemblyInfoInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.AssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\refint\CommonModels.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\CommonModels.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\CommonModels\obj\Debug\net7.0\ref\CommonModels.dll

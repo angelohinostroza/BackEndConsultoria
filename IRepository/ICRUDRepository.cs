@@ -4,7 +4,7 @@ namespace IRepository
 {
     public interface ICRUDRepository<T> where T : class 
     {
-        GenericFilterResponse<T> GetByFilter(GenericFilterRequest filters);
+        GenericFilterResponse<T> GetByFilter(GenericFilterRequest filter);
         List<T> GetAll();
         T GetById(object id);
         T Create(T request);

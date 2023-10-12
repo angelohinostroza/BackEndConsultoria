@@ -8,7 +8,7 @@ namespace RequestResponse
 {
     public class CotizacionResponse
     {
-        public int IdCotizacion { get; set; }
+        public int Id { get; set; }
         public int IdProyecto { get; set; }
         public DateTime FechaCotizacion { get; set; }
         public string MontoEstimado { get; set; } = null!;

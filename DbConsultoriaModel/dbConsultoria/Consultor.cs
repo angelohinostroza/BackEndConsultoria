@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class Consultor
 {
     [Key]
-    public int IdConsultor { get; set; }
+    public int Id { get; set; }
 
     [StringLength(20)]
     [Unicode(false)]
@@ -48,6 +48,8 @@ public partial class Consultor
 
     [Column(TypeName = "date")]
     public DateTime? FechaCreacion { get; set; }
+
+    public int? IdEmpleadoModifica { get; set; }
 
     [Column(TypeName = "date")]
     public DateTime? FechaModificado { get; set; }

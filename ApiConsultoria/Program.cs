@@ -15,6 +15,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: "mis origenes",
                       builder =>
                       {
+                       
                           builder.AllowAnyMethod();
                           builder.AllowAnyOrigin();
                           builder.AllowAnyHeader();
@@ -41,8 +42,8 @@ builder.Services
         ClockSkew = TimeSpan.Zero,
         ValidIssuer = builder.Configuration["Jwt:Issuer"],
         ValidAudience = builder.Configuration["Jwt:Audience"],
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
-
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"])),
+        
     };
 });
 

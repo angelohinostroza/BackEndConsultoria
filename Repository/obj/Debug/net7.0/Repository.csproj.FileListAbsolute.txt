@@ -40,3 +40,45 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Re
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\IRepository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\IRepository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\IRepository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\IRepository.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Repository\obj\Debug\net7.0\ref\Repository.dll

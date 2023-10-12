@@ -20,3 +20,15 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ut
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\refint\UtilHttp.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\UtilHttp.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\ref\UtilHttp.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\bin\Debug\net7.0\UtilHttp.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\bin\Debug\net7.0\UtilHttp.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\bin\Debug\net7.0\UtilHttp.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\UtilHttp.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\UtilHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\UtilHttp.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\UtilHttp.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\UtilHttp.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\UtilHttp.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\refint\UtilHttp.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\UtilHttp.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilHttp\obj\Debug\net7.0\ref\UtilHttp.dll

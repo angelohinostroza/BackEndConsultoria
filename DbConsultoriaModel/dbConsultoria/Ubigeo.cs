@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class Ubigeo
 {
     [Key]
-    public int IdUbigeo { get; set; }
+    public int Id { get; set; }
 
     [Column("Ubigeo")]
     [StringLength(50)]

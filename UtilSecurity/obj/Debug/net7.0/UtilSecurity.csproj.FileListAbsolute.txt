@@ -12,6 +12,7 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_C
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
@@ -20,4 +21,27 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ut
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll

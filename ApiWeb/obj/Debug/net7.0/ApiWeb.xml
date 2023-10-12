@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiWeb</name>
+    </assembly>
+    <members>
+        <member name="M:ApiWeb.Controllers.AuthController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            CONSTRUCTOR
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.AuthController.Listen">
+            <summary>
+            Si el servicio está activo, retorna un true
+            </summary>
+            <returns>TRUE</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.AuthController.Login(RequestResponse.LoginRequest)">
+            <summary>
+            REALIZA EL PROCESO DE LOGIN Y GENERA EL TOKEN DE AUTENTICACIÓN
+            </summary>
+            <param name="request">LoginRequest</param>
+            <returns>LoginResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.ListarTodo(System.Int32)">
+            <summary>
+            RETORNA TODOS LOS CLIENTES DE NUESTRA TABLA CLIENTE
+            </summary>
+            <returns>List-ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.GetById(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.Crear(RequestResponse.ClienteRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA CLIENTE
+            </summary>
+            <param name="request">ClienteRequest</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.Crear(RequestResponse.GenericFilterRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA CLIENTE
+            </summary>
+            <param name="request">ClienteRequest</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.Actualizar(RequestResponse.ClienteRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA CLIENTE
+            </summary>
+            <param name="request">ClienteRequest</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA CLIENTE POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.CrearMultiple(System.Collections.Generic.List{RequestResponse.ClienteRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA CLIENTE
+            </summary>
+            <param name="request">List-ClienteRequest</param>
+            <returns>List-ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.ClienteRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA CLIENTE
+            </summary>
+            <param name="request">List-ClienteRequest</param>
+            <returns>List-ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ConsultorController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS CONSULTORES DE NUESTRA TABLA CONSULTOR
+            </summary>
+            <returns>List-ConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ConsultorController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>ConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ConsultorController.Crear(RequestResponse.ConsultorRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA CONSULTOR
+            </summary>
+            <param name="request">ConsultorRequest</param>
+            <returns>ConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ConsultorController.Actualizar(RequestResponse.ConsultorRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA CONSULTOR
+            </summary>
+            <param name="request">ConsultorRequest</param>
+            <returns>ConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ConsultorController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA CONSULTOR POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ConsultorController.CrearMultiple(System.Collections.Generic.List{RequestResponse.ConsultorRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA CONSULTOR
+            </summary>
+            <param name="request">List-ConsultorRequest</param>
+            <returns>List-ConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ConsultorController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.ConsultorRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA CONSULTOR
+            </summary>
+            <param name="request">List-ConsultorRequest</param>
+            <returns>List-ConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ContratistumController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS CONTRATISTAS DE NUESTRA TABLA CONTRATISTA
+            </summary>
+            <returns>List-ContratistumResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ContratistumController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>ContratistumResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ContratistumController.Crear(RequestResponse.ContratistumRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA CONTRATISTA
+            </summary>
+            <param name="request">ContratistumRequest</param>
+            <returns>ContratistumResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ContratistumController.Actualizar(RequestResponse.ContratistumRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA CONTRATISTA
+            </summary>
+            <param name="request">ContratistumRequest</param>
+            <returns>ContratistumResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ContratistumController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA CONTRATISTA POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ContratistumController.CrearMultiple(System.Collections.Generic.List{RequestResponse.ContratistumRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA CONTRATISTA
+            </summary>
+            <param name="request">List-ContratistumRequest</param>
+            <returns>List-ContratistumResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ContratistumController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.ContratistumRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA CONTRATISTA
+            </summary>
+            <param name="request">List-ContratistumRequest</param>
+            <returns>List-ContratistumResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CotizacionController.ListarTodo">
+            <summary>
+            RETORNA TODOS LAS COTIZACIONES DE NUESTRA TABLA COTIZACIÓN
+            </summary>
+            <returns>List-CotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CotizacionController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>CotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CotizacionController.Crear(RequestResponse.CotizacionRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA COTIZACIÓN
+            </summary>
+            <param name="request">CotizacionRequest</param>
+            <returns>CotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CotizacionController.Actualizar(RequestResponse.CotizacionRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA COTIZACIÓN
+            </summary>
+            <param name="request">CotizacionRequest</param>
+            <returns>CotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CotizacionController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA COTIZACIÓN POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CotizacionController.CrearMultiple(System.Collections.Generic.List{RequestResponse.CotizacionRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA COTIZACIÓN
+            </summary>
+            <param name="request">List-CotizacionRequest</param>
+            <returns>List-CotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CotizacionController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.CotizacionRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA COTIZACIÓN
+            </summary>
+            <param name="request">List-CotizacionRequest</param>
+            <returns>List-CotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.DetalleCotizacionController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS DETALLES DE NUESTRA TABLA DETALLE COTIZACIÓN
+            </summary>
+            <returns>List-DetalleCotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.DetalleCotizacionController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>DetalleCotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.DetalleCotizacionController.Crear(RequestResponse.DetalleCotizacionRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA DETALLE COTIZACIÓN
+            </summary>
+            <param name="request">DetalleCotizacionRequest</param>
+            <returns>DetalleCotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.DetalleCotizacionController.Actualizar(RequestResponse.DetalleCotizacionRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA DETALLE COTIZACIÓN
+            </summary>
+            <param name="request">DetalleCotizacionRequest</param>
+            <returns>DetalleCotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.DetalleCotizacionController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA DETALLE COTIZACIÓN POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.DetalleCotizacionController.CrearMultiple(System.Collections.Generic.List{RequestResponse.DetalleCotizacionRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA DETALLE COTIZACIÓN
+            </summary>
+            <param name="request">List-DetalleCotizacionRequest</param>
+            <returns>List-DetalleCotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.DetalleCotizacionController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.DetalleCotizacionRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA DETALLE COTIZACIÓN
+            </summary>
+            <param name="request">List-DetalleCotizacionRequest</param>
+            <returns>List-DetalleCotizacionResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpleadoController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS EMPLEADOS DE NUESTRA TABLA EMPLEADO
+            </summary>
+            <returns>List-EmpleadoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpleadoController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>EmpleadoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpleadoController.Crear(RequestResponse.EmpleadoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA EMPLEADO
+            </summary>
+            <param name="request">EmpleadoRequest</param>
+            <returns>EmpleadoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpleadoController.Actualizar(RequestResponse.EmpleadoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA EMPLEADO
+            </summary>
+            <param name="request">EmpleadoRequest</param>
+            <returns>EmpleadoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpleadoController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA EMPLEADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpleadoController.CrearMultiple(System.Collections.Generic.List{RequestResponse.EmpleadoRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA EMPLEADO
+            </summary>
+            <param name="request">List-EmpleadoRequest</param>
+            <returns>List-EmpleadoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpleadoController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.EmpleadoRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA EMPLEADO
+            </summary>
+            <param name="request">List-EmpleadoRequest</param>
+            <returns>List-EmpleadoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PagoClienteProyectoController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS PAGOS DE NUESTRA TABLA PAGOS CLIENTES EN PROYECTOS
+            </summary>
+            <returns>List-PagoClienteProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PagoClienteProyectoController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>PagoClienteProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PagoClienteProyectoController.Crear(RequestResponse.PagoClienteProyectoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA PAGO CLIENTE PROYECTO
+            </summary>
+            <param name="request">PagoClienteProyectoRequest</param>
+            <returns>PagoClienteProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PagoClienteProyectoController.Actualizar(RequestResponse.PagoClienteProyectoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA PAGO CLIENTE PROYECTO
+            </summary>
+            <param name="request">PagoClienteProyectoRequest</param>
+            <returns>PagoClienteProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PagoClienteProyectoController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA PAGO CLIENTE PROYECTO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PagoClienteProyectoController.CrearMultiple(System.Collections.Generic.List{RequestResponse.PagoClienteProyectoRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA PAGO CLIENTE PROYECTO
+            </summary>
+            <param name="request">List-PagoClienteProyectoRequest</param>
+            <returns>List-PagoClienteProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PagoClienteProyectoController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.PagoClienteProyectoRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA PAGO CLIENTE PROYECTO
+            </summary>
+            <param name="request">List-PagoClienteProyectoRequest</param>
+            <returns>List-PagoClienteProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProyectoController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS PROYECTOS DE NUESTRA TABLA PROYECTO
+            </summary>
+            <returns>List-ProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProyectoController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>ProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProyectoController.Crear(RequestResponse.ProyectoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA PROYECTO
+            </summary>
+            <param name="request">ProyectoRequest</param>
+            <returns>ProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProyectoController.Actualizar(RequestResponse.ProyectoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA PROYECTO
+            </summary>
+            <param name="request">ProyectoRequest</param>
+            <returns>ProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProyectoController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA PROYECTO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProyectoController.CrearMultiple(System.Collections.Generic.List{RequestResponse.ProyectoRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA PROYECTO
+            </summary>
+            <param name="request">List-ProyectoRequest</param>
+            <returns>List-ProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProyectoController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.ProyectoRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA PROYECTO
+            </summary>
+            <param name="request">List-ProyectoRequest</param>
+            <returns>List-ProyectoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RolController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS ROLES DE NUESTRA TABLA ROL
+            </summary>
+            <returns>List-RolResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RolController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>RolResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RolController.Crear(RequestResponse.RolRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA ROL
+            </summary>
+            <param name="request">RolRequest</param>
+            <returns>RolResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RolController.Actualizar(RequestResponse.RolRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA ROL
+            </summary>
+            <param name="request">RolRequest</param>
+            <returns>RolResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RolController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA ROL POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RolController.CrearMultiple(System.Collections.Generic.List{RequestResponse.RolRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA ROL
+            </summary>
+            <param name="request">List-RolRequest</param>
+            <returns>List-RolResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RolController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.RolRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA ROL
+            </summary>
+            <param name="request">List-RolRequest</param>
+            <returns>List-RolResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UbigeoController.getByContains(System.String)">
+            <summary>
+            RETORNA LA LISTA DE UBIGEOS QUE COINCIDAN CON EL TEXTO INGRESADO
+            </summary>
+            <param name="texto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UbigeoController.GetAll">
+            <summary>
+            RETORNA TODOS LOS CLIENTES DE NUESTRA TABLA CLIENTE
+            </summary>
+            <returns>List-ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UbigeoController.GetById(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UbigeoController.Create(RequestResponse.UbigeoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA CLIENTE
+            </summary>
+            <param name="request">ClienteRequest</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UbigeoController.GetByFilter(RequestResponse.GenericFilterRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA CLIENTE
+            </summary>
+            <param name="filter">ClienteRequest</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UbigeoController.Update(RequestResponse.UbigeoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA CLIENTE
+            </summary>
+            <param name="request">ClienteRequest</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UbigeoController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA CLIENTE POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UsuarioController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS USUARIOS DE NUESTRA TABLA USUARIOS
+            </summary>
+            <returns>List-UsuarioResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UsuarioController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>UsuarioResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UsuarioController.Crear(RequestResponse.UsuarioRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA USUARIO
+            </summary>
+            <param name="request">UsuarioRequest</param>
+            <returns>UsuarioResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UsuarioController.Actualizar(RequestResponse.UsuarioRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA USUARIO
+            </summary>
+            <param name="request">UsuarioRequest</param>
+            <returns>UsuarioResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UsuarioController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA USUARIO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UsuarioController.CrearMultiple(System.Collections.Generic.List{RequestResponse.UsuarioRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA USUARIO
+            </summary>
+            <param name="request">List-UsuarioRequest</param>
+            <returns>List-UsuarioResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.UsuarioController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.UsuarioRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA USUARIO
+            </summary>
+            <param name="request">List-UsuarioRequest</param>
+            <returns>List-UsuarioResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaConsultorController.ListarTodo">
+            <summary>
+            RETORNA TODAS LAS VISITAS DE NUESTRA TABLA VISITA CONSULTOR
+            </summary>
+            <returns>List-VisitaConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaConsultorController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>VisitaConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaConsultorController.Crear(RequestResponse.VisitaConsultorRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA VISITA CONSULTOR
+            </summary>
+            <param name="request"> VisitaConsultorRequest</param>
+            <returns>R VisitaConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaConsultorController.Actualizar(RequestResponse.VisitaConsultorRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA VISITA CONSULTOR
+            </summary>
+            <param name="request">VisitaConsultorRequest</param>
+            <returns>VisitaConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaConsultorController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA VISITA CONSULTOR POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaConsultorController.CrearMultiple(System.Collections.Generic.List{RequestResponse.VisitaConsultorRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA VISITA CONSULTOR
+            </summary>
+            <param name="request">List-VisitaConsultorRequest</param>
+            <returns>List-VisitaConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaConsultorController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.VisitaConsultorRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA VISITA CONSULTOR
+            </summary>
+            <param name="request">List-VisitaConsultorRequest</param>
+            <returns>List-VisitaConsultorResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaDetalleController.ListarTodo">
+            <summary>
+            RETORNA TODOS LOS DETALLES DE NUESTRA TABLA VISITA DETALLE
+            </summary>
+            <returns>List-VisitaDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaDetalleController.GetById(System.Int16)">
+            <summary>
+            RETORNA EL REGISTRO POR PRIMERY KEY
+            </summary>
+            <returns>VisitaDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaDetalleController.Crear(RequestResponse.VisitaDetalleRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA VISITA DETALLE
+            </summary>
+            <param name="request">VisitaDetalleRequest</param>
+            <returns>VisitaDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaDetalleController.Actualizar(RequestResponse.VisitaDetalleRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA VISITA DETALLE
+            </summary>
+            <param name="request"> VisitaDetalleRequest</param>
+            <returns> VisitaDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaDetalleController.EliminarPorId(System.Int32)">
+            <summary>
+            ELIMINA UN REGISTRO DE LA TABLA VISITA DETALLE POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>Bool</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaDetalleController.CrearMultiple(System.Collections.Generic.List{RequestResponse.VisitaDetalleRequest})">
+            <summary>
+            INSERTA MULTIPLES REGISTROS EN LA TABLA VISITA DETALLE
+            </summary>
+            <param name="request">List-VisitaDetalleRequest</param>
+            <returns>List-VisitaDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.VisitaDetalleController.ActualizarMultiple(System.Collections.Generic.List{RequestResponse.VisitaDetalleRequest})">
+            <summary>
+            ACTUALIZA MULTIPLES REGISTROS EN LA TABLA VISITA DETALLE
+            </summary>
+            <param name="request">List-VisitaDetalleRequest</param>
+            <returns>List-VisitaDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Middleware.HelperHttpContext.getTokenClaims(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Retorna todas variables que se le asignaron a los claims al momento de generar el token
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

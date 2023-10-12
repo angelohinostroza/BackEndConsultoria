@@ -73,6 +73,10 @@ namespace Bussnies
             throw new NotImplementedException();
         }
 
+        public GenericFilterResponse<DetalleCotizacionResponse> GetByFilter(GenericFilterRequest filter)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

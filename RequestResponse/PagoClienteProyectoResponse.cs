@@ -8,7 +8,7 @@ namespace RequestResponse
 {
     public class PagoClienteProyectoResponse
     {
-        public int IdPago { get; set; }
+        public int Id { get; set; }
         public int IdProyecto { get; set; }
         public int IdCliente { get; set; }
         public int IdEmpleadoRegistro { get; set; }

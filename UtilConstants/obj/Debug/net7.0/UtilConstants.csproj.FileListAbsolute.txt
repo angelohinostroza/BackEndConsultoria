@@ -20,3 +20,15 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Ut
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\refint\UtilConstants.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\UtilConstants.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\ref\UtilConstants.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\bin\Debug\net7.0\UtilConstants.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\UtilConstants.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\refint\UtilConstants.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\UtilConstants.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilConstants\obj\Debug\net7.0\ref\UtilConstants.dll

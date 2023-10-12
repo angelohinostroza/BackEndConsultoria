@@ -10,7 +10,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class Cotizacion
 {
     [Key]
-    public int IdCotizacion { get; set; }
+    public int Id { get; set; }
 
     public int IdProyecto { get; set; }
 

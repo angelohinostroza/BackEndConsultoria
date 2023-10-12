@@ -13,17 +13,51 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_C
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\DbConsultoriaModel.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\RequestResponse.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\DbConsultoriaModel.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\RequestResponse.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\DbConsultoriaModel.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\RequestResponse.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\DbConsultoriaModel.pdb
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\RequestResponse.pdb
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll

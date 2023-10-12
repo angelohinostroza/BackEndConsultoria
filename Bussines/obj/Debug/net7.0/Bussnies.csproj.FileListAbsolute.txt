@@ -23,14 +23,6 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_C
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_Consultoria\Bussines\obj\Debug\net7.0\ref\Bussnies.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_Consultoria\Bussines\bin\Debug\net7.0\DbConsultoriaModel.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Integracion de Sistemas Impresariales\backEnd_Consultoria\Bussines\bin\Debug\net7.0\DbConsultoriaModel.pdb
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\refint\Bussnies.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.deps.json
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.pdb
@@ -40,13 +32,75 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bu
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IRepository.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Repository.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\RequestResponse.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\UtilSecurity.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\CommonModels.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\DbConsultoriaModel.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IBussnies.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IRepository.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Repository.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\RequestResponse.pdb
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\ref\Bussnies.dll
-D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\UtilSecurity.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\UtilSecurity.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\refint\Bussnies.dll
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.pdb
+D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\ref\Bussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\CommonModels.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IBussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IRepository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Repository.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\CommonModels.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IRepository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Repository.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\refint\Bussnies.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\ref\Bussnies.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.deps.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\CommonModels.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\DbConsultoriaModel.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IBussnies.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IRepository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Repository.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\CommonModels.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\DbConsultoriaModel.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\IRepository.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\Repository.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\refint\Bussnies.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\Bussnies.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\Bussines\obj\Debug\net7.0\ref\Bussnies.dll

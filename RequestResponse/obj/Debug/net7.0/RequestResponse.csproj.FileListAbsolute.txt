@@ -20,3 +20,26 @@ D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\Re
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\refint\RequestResponse.dll
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.pdb
 D:\INSTITUTO_CONTINENTAL\CICLO 4\Proyecto Productivo II B\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\ref\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\bin\Debug\net7.0\RequestResponse.deps.json
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.csproj.AssemblyReference.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.AssemblyInfoInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.AssemblyInfo.cs
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\refint\RequestResponse.dll
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.pdb
+C:\Users\Franklin\Downloads\WIN10\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\ref\RequestResponse.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\bin\Debug\net7.0\RequestResponse.deps.json
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\bin\Debug\net7.0\RequestResponse.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\bin\Debug\net7.0\RequestResponse.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.AssemblyInfoInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.AssemblyInfo.cs
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\refint\RequestResponse.dll
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\RequestResponse.pdb
+C:\Users\ANGELO HINOSTROZA\Downloads\BackEnd_Consultoria\RequestResponse\obj\Debug\net7.0\ref\RequestResponse.dll

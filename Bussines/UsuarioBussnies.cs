@@ -87,6 +87,11 @@ namespace Bussnies
             VistaUsuarioRol vistaUsuario = _usuarioRepository.BuscarPorNombreUsuario(NombreUsuario);
             return vistaUsuario;
         }
+
+        public GenericFilterResponse<UsuarioResponse> GetByFilter(GenericFilterRequest filter)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

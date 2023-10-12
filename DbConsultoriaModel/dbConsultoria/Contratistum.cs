@@ -9,7 +9,7 @@ namespace DbConsultoriaModel.dbConsultoria;
 public partial class Contratistum
 {
     [Key]
-    public int IdContratista { get; set; }
+    public int Id { get; set; }
 
     [StringLength(255)]
     [Unicode(false)]
@@ -43,15 +43,17 @@ public partial class Contratistum
 
     public bool? Estado { get; set; }
 
-    [Column(TypeName = "date")]
-    public DateTime? FechaCreacion { get; set; }
-
-    [Column(TypeName = "date")]
-    public DateTime? FechaModificado { get; set; }
-
     public int IdProyecto { get; set; }
 
     public int IdEmpleadoRegistro { get; set; }
+
+    [Column(TypeName = "date")]
+    public DateTime? FechaCreacion { get; set; }
+
+    public int? IdEmpleadoModifica { get; set; }
+
+    [Column(TypeName = "date")]
+    public DateTime? FechaModificado { get; set; }
 
     [ForeignKey("IdEmpleadoRegistro")]
     [InverseProperty("Contratista")]

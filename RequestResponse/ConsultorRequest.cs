@@ -5,12 +5,13 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 namespace RequestResponse
 {
     public class ConsultorRequest
     {
-        public int IdConsultor { get; set; }
+        public int Id { get; set; }
         public string TipoDocumento { get; set; } = null!;
         public string NroDocumento { get; set; } = null!;
         public string Nombres { get; set; } = null!;
@@ -21,10 +22,12 @@ namespace RequestResponse
         public string Telefono { get; set; } = null!;
         public bool? Estado { get; set; }
         public int IdEmpleadoRegistro { get; set; }
-        public DateTime? FechaCreacion { get; set; }
-        public DateTime? FechaModificado { get; set; }
+        [JsonIgnore]
+        public DateTime? FechaCreacion { get; set; } = DateTime.Now;
+        [JsonIgnore]
+        public DateTime? FechaModificado { get; set; } = DateTime.Now;
 
-       
+
         //public virtual Empleado IdEmpleadoRegistroNavigation { get; set; } = null!;
 
         //public virtual Ubigeo? IdUbigeoNavigation { get; set; }

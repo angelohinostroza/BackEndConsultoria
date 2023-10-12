@@ -74,6 +74,10 @@ namespace Bussnies
             throw new NotImplementedException();
         }
 
+        public GenericFilterResponse<VisitaConsultorResponse> GetByFilter(GenericFilterRequest filter)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }
